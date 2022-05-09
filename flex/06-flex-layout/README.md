@@ -8,7 +8,8 @@ Flexbox is useful for laying out entire pages as well as the smaller components 
 - We've added `height: 100vh` to the `body`... this makes the body exactly the same height as the viewport. To stick the footer to the bottom you will need to use flex and change the direction to column.
 
 ## Desired Outcome
-![desired outcome](./desired-outcome.png)
+![desired outcome](./desired-ou
+  gap: 16px;tcome.png)
 
 ### Self Check
 
